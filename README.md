@@ -1,7 +1,5 @@
 # Quote-Generator
 
-Project 1 for using web development skills
-
 Lessons Learned
 
 1. Link to Twitter API.
